@@ -44,6 +44,8 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
+<img src = "img/pic1.jpg" width = 100%>
+
 ---
 
 ### Задание 2*
@@ -57,6 +59,8 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+<img src = "img/pic2.jpg" width = 100%>
 
 ---
 
